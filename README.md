@@ -15,9 +15,3 @@ cara pakai :
 2. jalankan di terminal, $npm install
 3. jalankan app, $node app
 4. enjoy..
-
-
-
-
-original git : https://github.com/agassan/node-express-mongo-angular
-
