@@ -1,0 +1,22 @@
+h2(ng-show='bookmark.id') Ubah Bookmark
+
+h2(ng-hide='bookmark.id') Bookmark Baru
+
+form(name='frm')
+    div.control-group(ng-class='{error: frm.name.$invalid}')
+        label Nama Situs
+        input(type='text', name='name', ng-model='bookmark.name', required='required')
+        span.help-inline(ng-show='frm.name.$error.required') Required
+    div.control-group(ng-class='{error: frm.url.$invalid}')
+        label URL
+        input(type='url', name='url', ng-model='bookmark.url', required='required')
+        span.help-inline(ng-show='frm.url.$error.required') Required
+        span.help-inline(ng-show='frm.url.$error.url') Not a URL
+    label Deskripsi
+    textarea(name='description', ng-model='bookmark.description')
+    
+    br
+    
+    a.btn(href='#/') Batal
+    button.btn.btn-primary(ng-click='save()', ng-disabled='isClean() || frm.$invalid') Simpan
+    button.btn.btn-danger(ng-click='destroy()', ng-show='bookmark._id') Hapus
