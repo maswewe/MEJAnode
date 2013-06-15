@@ -10,7 +10,7 @@ khusus untuk :
 
 cara pakai :
 
-1. unzip ke direktori lokal
+1. unzip atau clone ke direktori lokal
 2. pindah ke direktori, $cd ~/MEJAnode-master
 2. jalankan di terminal, $npm install
 3. jalankan app, $node app
