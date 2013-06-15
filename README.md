@@ -15,3 +15,7 @@ cara pakai :
 2. jalankan di terminal, $npm install
 3. jalankan app, $node app
 4. enjoy..
+
+
+for Wikis..
+https://github.com/maswewe/MEJAnode/wiki/Pengembangan-Aplikasi-Nodejs-Menggunakan-Express,-Jade-&-AngularJS
