@@ -20,3 +20,13 @@ cara pakai :
 for Wikis..
 
 https://github.com/maswewe/MEJAnode/wiki/Aplikasi-CRUD-di-Nodejs-Menggunakan-Express,-Jade-&-AngularJS
+
+
+
+
+
+
+"saya masih baru di dunia AngularJS, so jika ada yang bisa membuat controller yang lebih simple silahkan bagi-bagi rahasianya".
+
+--Wawan B. Setyawan
+
