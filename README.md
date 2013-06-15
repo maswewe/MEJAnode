@@ -18,4 +18,5 @@ cara pakai :
 
 
 for Wikis..
-https://github.com/maswewe/MEJAnode/wiki/Pengembangan-Aplikasi-Nodejs-Menggunakan-Express,-Jade-&-AngularJS
+
+https://github.com/maswewe/MEJAnode/wiki/Aplikasi-CRUD-di-Nodejs-Menggunakan-Express,-Jade-&-AngularJS
